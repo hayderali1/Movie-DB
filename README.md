@@ -6,7 +6,7 @@ This project uses The Movie DataBase API: `https://api.themoviedb.org/3`. It is 
 you to use your Google and Postman skills to explore the API and understand the
 data.
 
-# Already built for you
+# Already built with the following
 
 - A home page that shows popular movies
 - When you click one of the movies, you'll see the Single Movie page, which includes:
